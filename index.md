@@ -20,6 +20,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. [STORY] Level 1
+4. [CYOA] Level 2
 
 **Bold** and _Italic_ and `Code` text
 
